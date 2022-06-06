@@ -49,6 +49,7 @@ Latex in MD: $\Phi^{2} + x = 3$
 <span style="color:blue">blue</span>
 <span style="color:yellow">yellow</span>
 
+###### Note: colors don't work on github
 ---
 line break.<br>
 line break with double space at the end.  
