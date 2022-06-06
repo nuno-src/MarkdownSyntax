@@ -84,6 +84,7 @@ line break. /
 * [ ] task 3
 
 ---
+use `for` loop
 
 ```python
 
