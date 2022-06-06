@@ -1,5 +1,4 @@
 # Markdown Syntax
----
 
 #### Note: There are different variants of markdown depending on the platform (Github, vs code, Obsidian notes, etc.)
 
