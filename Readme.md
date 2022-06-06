@@ -25,14 +25,23 @@ Normal Text
 
 
 ---
+
 _italic text 1_
+
 *italic text 2*
+
 ~~line above words~~
+
 __bold text 1__
+
 **bold text 2**
+
 <b>bold text 3</b>
+
 X<sub>2</sub>
+
 Y<sup>2</sup>
+
 Latex in MD: $\Phi^{2} + x = 3$
 
 ---
