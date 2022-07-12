@@ -58,7 +58,7 @@ line break. /
 
 ---
 
-[link](https://https://github.com)
+[link](https://github.com)
 
 > "Quote"
 > 
